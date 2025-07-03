@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="rcl_logcal" id="2A0FB533-EFFD-0A56-2646-E6FA9B8051D7" version="3.5">
+<createdBy>Gabriel</createdBy>
+<createdTime>2024-09-13 22:05:07 UTC</createdTime>
+<ownerDesignName>rcl_logcal</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>2A0FB533-EFFD-0A56-2646-E6FA9B8051D7</designId>
+</OSDM_Design>
